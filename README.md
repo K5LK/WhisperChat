@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="logo.png" alt="subfinder" width="200px">
+  <img src="logo.png" alt="WhisperChat🔐" width="200px">
   <br>
 </h1>
 
