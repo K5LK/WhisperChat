@@ -6,8 +6,7 @@
 <h4 align="center">Secure Communication Chat Application</h4>
 
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#subfinder-go-library">Library</a>
+  <a href="#features">Features</a>
 </p>
 
 ---
