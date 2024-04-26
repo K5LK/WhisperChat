@@ -2,7 +2,7 @@
   <img src="logo.png" alt="WhisperChat🔐" width="200px">
   <br>
 </h1>
-
+<h2 align="center">WhisperChat🔐</h2>
 <h4 align="center">Secure Communication Chat Application</h4>
 
 <p align="center">
