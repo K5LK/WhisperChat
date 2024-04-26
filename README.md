@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="logo.png" alt="WhisperChat🔐" width="200px">
+  <img src="" alt="WhisperChat🔐" width="200px">
   <br>
 </h1>
 
@@ -17,7 +17,6 @@
 # Features
 
 <h1 align="left">
-  <br>
 </h1>
 
 - Secure end-to-end encryption
